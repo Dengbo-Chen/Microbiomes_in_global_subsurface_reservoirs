@@ -7,26 +7,35 @@ Deep subsurface, microbial biogeography, metagenomics, reservoir ecosystems, com
 
 ## Directory Structure
 
-├── Geographic_and_Depth_Distributions/
-│   └── Analysis of microbial diversity across depth and geography
+- `Geographic_and_Depth_Distributions/`  
+  Analysis of microbial diversity across geographic locations and depth gradients  
 
-├── MAG_Species_abundance_distributions/
-│   └── Species abundance distribution (SAD) analysis
+- `MAG_Species_abundance_distributions/`  
+  Species abundance distributions (SADs) and rank-abundance curves  
 
-├── MAG_abundance_vs_prevalence/
-│   └── Relationship between MAG abundance and prevalence
+- `MAG_abundance_vs_prevalence/`  
+  Relationship between MAG abundance and prevalence  
 
-├── MAG_phylum_distribution/
-│   └── Taxonomic composition at phylum level
+- `MAG_phylum_distribution/`  
+  Taxonomic composition at phylum level  
 
-├── Mantel_test_environmental_vs_MAG_communities/
-│   └── Mantel tests linking environmental variables and microbial communities
+- `Mantel_test_environmental_vs_MAG_communities/`  
+  Mantel tests linking environmental variables and microbial communities  
 
-├── Novelty_of_Prokaryotic_MAGs/
-│   └── Analysis of MAG novelty based on GTDB
+- `Novelty_of_Prokaryotic_MAGs/`  
+  Analysis of taxonomic novelty of MAGs  
 
-├── Taylor_power_law_relationship/
-│   └── Mean–variance scaling (Taylor's power law)
+- `Taylor_power_law_relationship/`  
+  Taylor’s power law analysis  
 
-├── iCAMP/
-│   └── Community assembly processes (HeS, HoS, DL, HD, DR)
+- `iCAMP/`  
+  Ecological process inference using iCAMP  
+
+- `README.md`  
+  Project description  
+
+## Data
+
+The study integrates:
+- 253 publicly available metagenomes (JGI, NCBI SRA, CNCB)
+- 12 newly generated deep subsurface samples from China
