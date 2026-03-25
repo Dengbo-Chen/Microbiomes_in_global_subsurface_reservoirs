@@ -1,0 +1,123 @@
+ID,Latitude,N_OR_S,Longitude,E_OR_W,depth,BioProject,country,state,group,number
+1,58.4496,N,85.0279,E,1997,PRJNA454794,Russia,Europe,Deep aquifer water,1
+2,30.67509047,N,35.21759282,E,884,PRJNA983765,Israel,Asia,Deep aquifer water,1
+3,30.55503111,N,35.17672029,E,1200,PRJNA983765,Israel,Asia,Deep aquifer water,1
+4,30.41493329,N,35.13908444,E,1536,PRJNA983765,Israel,Asia,Deep aquifer water,1
+5,30.14358,N,35.02333,E,960,PRJNA983765,Israel,Asia,Deep aquifer water,1
+6,30.67266138,N,35.23412179,E,710,PRJNA983765,Israel,Asia,Deep aquifer water,1
+7,30.34969859,N,35.14052158,E,963,PRJNA983765,Israel,Asia,Deep aquifer water,1
+8,30.32342605,N,35.14936652,E,643,PRJNA983765,Israel,Asia,Deep aquifer water,1
+9,30.14240395,N,35.02281368,E,960,PRJNA983765,Israel,Asia,Deep aquifer water,1
+10,40.2,N,-81.5,W,1000,JGI,USA,North America,Shale-produced fluids,22
+11,40.411582,N,-104.348363,W,1890,PRJNA308326,USA,North America,Shale-produced fluids,45
+12,29.62,N,107.54,E,2700,PRJNA287481,China,Asia,Shale-produced fluids,1
+13,29.7,N,107.6,E,2700,PRJNA287481,China,Asia,Shale-produced fluids,1
+14,62.717916,N,29.061823,E,500,PRJEB48900,Finland,Europe,Deep aquifer water,23
+15,47.82333,N,-92.23722,W,700,PRJNA248749,USA,North America,mine fluids,6
+16,37.14,N,-81.54,W,785.7,PRJNA874672,USA,North America,mine fluids,1
+17,37.14,N,-81.54,W,681.3,PRJNA874672,USA,North America,mine fluids,1
+18,37.14,N,-81.54,W,603.5,PRJNA874672,USA,North America,mine fluids,1
+19,37.14,N,-81.54,W,598.4,PRJNA874672,USA,North America,mine fluids,1
+20,37.14,N,-81.54,W,582.6,PRJNA874672,USA,North America,mine fluids,1
+21,37.14,N,-81.54,W,519.4,PRJNA874672,USA,North America,mine fluids,1
+22,70.3,N,-148.7,W,1300,PRJNA278302,USA,North America,oil field produced water,2
+23,70.2,N,-149.6,W,1967.5,PRJNA278302,USA,North America,oil field produced water,2
+24,70.4,N,-147.7,W,2925,PRJNA278302,USA,North America,oil field produced water,1
+25,34.13,N,120.23,E,1558.2,PRJNA378566,China,Asia,oil field produced water,1
+26,33.12,N,120.23,E,1499.4,PRJNA378566,China,Asia,oil field produced water,1
+27,33.11,N,120.22,E,1809.5,PRJNA378566,China,Asia,oil field produced water,1
+28,58.060226,N,82.826753,E,2800,PRJNA414521,Russia,Europe,Deep aquifer water,1
+29,37.729284,N ,6.556527,W,607,PRJNA476489,Spain,Europe,mine fluids,1
+30,37.729284,N ,6.556527,W,420,PRJNA476489,Spain,Europe,mine fluids,1
+31,57.02,N,-111.55,W,800,PRJNA183510,Canada,North America,mine fluids,12
+32,50.03,N,-110.7,W,850,PRJNA691618,Canada,North America,oil field produced water,10
+33,29,N,-94,W,3350,PRJNA578106,USA,North America,oil field produced water,4
+34,27,N,-95,W,1450,PRJNA613490,USA,North America,oil field produced water,3
+35,52.0002,N,50.0002,E,1060,PRJCA020971,Kazakhstan,Asia,oil field produced water,1
+36,45.5096,N,116.97215,E,989.1,PRJCA020971,China,Asia,oil field produced water,1
+37,45.5098,N,116.97235,E,1009.4,PRJCA020971,China,Asia,oil field produced water,1
+38,45.5099,N,116.97245,E,1039.55,PRJCA020971,China,Asia,oil field produced water,1
+39,45.51,N ,116.97255,E,1009.4,PRJCA020971,China,Asia,oil field produced water,1
+40,45.5101,N ,116.97265,E,1213.8,PRJCA020971,China,Asia,oil field produced water,1
+41,45.5102,N ,116.97275,E,1096.6,PRJCA020971,China,Asia,oil field produced water,1
+42,45.5103,N ,116.97285,E,986.5,PRJCA020971,China,Asia,oil field produced water,1
+43,45.5104,N ,116.97295,E,1069.6,PRJCA020971,China,Asia,oil field produced water,1
+44,45.5105,N ,116.97305,E,1053.6,PRJCA020971,China,Asia,oil field produced water,1
+45,45.5106,N ,116.97315,E,1024,PRJCA020971,China,Asia,oil field produced water,1
+46,45.5107,N ,116.97325,E,1034,PRJCA020971,China,Asia,oil field produced water,1
+47,45.5108,N ,116.97335,E,1024,PRJCA020971,China,Asia,oil field produced water,1
+48,45.5109,N ,116.97345,E,1039.55,PRJCA020971,China,Asia,oil field produced water,1
+49,45.511,N ,116.97355,E,1000,PRJCA020971,China,Asia,oil field produced water,1
+50,46.511,N ,117.97355,E,1000,PRJCA020971,China,Asia,oil field produced water,1
+51,47.511,N ,118.97355,E,1000,PRJCA020971,China,Asia,oil field produced water,1
+52,44.00061,N ,89.18076,E,1067,PRJCA020971,China,Asia,oil field produced water,1
+53,44.00081,N ,89.18096,E,1067,PRJCA020971,China,Asia,oil field produced water,1
+54,44.00091,N ,89.18106,E,1067,PRJCA020971,China,Asia,oil field produced water,1
+55,44.00101,N ,89.18116,E,1067,PRJCA020971,China,Asia,oil field produced water,1
+56,39.82127,N ,109.96144,E,1590,PRJCA020971,China,Asia,oil field produced water,1
+57,39.82147,N ,109.96164,E,1781,PRJCA020971,China,Asia,oil field produced water,1
+58,39.82157,N ,109.96174,E,1570,PRJCA020971,China,Asia,oil field produced water,1
+59,39.82167,N ,109.96184,E,1711,PRJCA020971,China,Asia,oil field produced water,1
+60,39.82177,N ,109.96194,E,1505,PRJCA020971,China,Asia,oil field produced water,1
+61,39.82187,N ,109.96204,E,1513,PRJCA020971,China,Asia,oil field produced water,1
+62,39.82197,N ,109.96214,E,1700,PRJCA020971,China,Asia,oil field produced water,1
+63,39.82207,N ,109.96224,E,1646,PRJCA020971,China,Asia,oil field produced water,1
+64,39.82217,N ,109.96234,E,1645,PRJCA020971,China,Asia,oil field produced water,1
+65,38,N ,121,E,1170,PRJCA020971,China,Asia,oil field produced water,1
+66,37.88624,N ,118.52544,E,1253.4,PRJCA020971,China,Asia,oil field produced water,1
+67,37.865383,N ,118.805161,E,1600,PRJCA020971,China,Asia,oil field produced water,1
+68,37.865583,N ,118.805361,E,1355.95,PRJCA020971,China,Asia,oil field produced water,1
+69,37.865683,N ,118.805461,E,1538,PRJCA020971,China,Asia,oil field produced water,1
+70,37.865783,N ,118.805561,E,1355.95,PRJCA020971,China,Asia,oil field produced water,1
+71,37.865883,N ,118.805661,E,1324.45,PRJCA020971,China,Asia,oil field produced water,1
+72,37.865983,N ,118.805761,E,1530,PRJCA020971,China,Asia,oil field produced water,1
+73,37.866083,N ,118.805861,E,1350,PRJCA020971,China,Asia,oil field produced water,1
+74,37.866183,N ,118.805961,E,1350,PRJCA020971,China,Asia,oil field produced water,1
+75,37.866283,N ,118.806061,E,1357,PRJCA020971,China,Asia,oil field produced water,1
+76,37.527793,N,118.528816,E,1091.26,PRJCA020971,China,Asia,oil field produced water,1
+77,37.241941,N,118.887369,E,1920,PRJCA020971,China,Asia,oil field produced water,1
+78,35.71221,N,115.02903,E,2900,PRJCA020971,China,Asia,oil field produced water,1
+79,37.14,N,-81.54,W,365.76,PRJNA874672,USA,North America,mine fluids,1
+80,37.14,N,-81.54,W,242.94,PRJNA874672,USA,North America,mine fluids,1
+81,47.37892341,N ,7.16496703,E,226,PRJNA257561(SRX672050),Switzerland,Europe,Shale-produced fluids,1
+82,61.2413,N,21.4947,E,366.7,PRJNA404452,Finland,Europe,Shale-produced fluids,1
+83,62.2413,N,22.4947,E,366.7,PRJNA404453,Finland,Europe,Shale-produced fluids,1
+84,63.2413,N,23.4947,E,366.7,PRJNA444021,Finland,Europe,Shale-produced fluids,1
+85,61.2413,N ,21.4947,E,366.7,PRJNA472439,Finland,Europe,Shale-produced fluids,1
+86,62.2413,N ,22.4947,E,366.7,PRJNA472439,Finland,Europe,Shale-produced fluids,1
+87,63.2413,N ,23.4947,E,366.7,PRJNA472439,Finland,Europe,Shale-produced fluids,1
+88,61.14,N ,21.29,E,366.7,PRJNA472439,Finland,Europe,Shale-produced fluids,1
+89,61.242,N ,21.4899,E,366.7,PRJNA472439,Finland,Europe,Shale-produced fluids,1
+90,57.26,N ,16.39,E,448.37,PRJNA279923,Sweden,Europe,Deep aquifer water,2
+91,57.26,N ,16.39,E,415.19,PRJNA279923,Sweden,Europe,Deep aquifer water,2
+92,57.26,N ,16.39,E,170.84,PRJNA279923,Sweden,Europe,Deep aquifer water,2
+93,58.26,N ,17.39,E,448.37,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+94,59.26,N ,18.39,E,448.37,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+95,60.26,N ,19.39,E,448.37,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+96,61.26,N ,20.39,E,415.19,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+97,62.26,N ,21.39,E,415.19,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+98,63.26,N ,22.39,E,415.19,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+99,64.26,N ,23.39,E,170.84,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+100,65.26,N ,24.39,E,170.84,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+101,66.26,N ,25.39,E,170.84,PRJNA279924,Sweden,Europe,Deep aquifer water,1
+102,38.5,N ,127.6,E,400,PRJNA682244,China,Asia,mine fluids,1
+103,39.5,N ,128.6,E,400,PRJNA682244,China,Asia,mine fluids,1
+104,40.5,N ,129.6,E,400,PRJNA682244,China,Asia,mine fluids,1
+105,52,N ,50,E,476,PRJCA020971,Kazakhstan,Asia,oil field produced water,1
+106,52.0003,N ,50.0003,E,399.185,PRJCA020971,Kazakhstan,Asia,oil field produced water,1
+107,44.99014,N,126.04972,E,350,PRJCA020971,China,Asia,oil field produced water,1
+108,44.914902,N ,84.47921,E,340,PRJCA020971,China,Asia,oil field produced water,1
+109,44.914912,N ,84.47931,E,340,PRJCA020971,China,Asia,oil field produced water,1
+110,44.329052,N ,84.877327,E,149,PRJCA020971,China,Asia,oil field produced water,1
+111,44.329252,N ,84.877527,E,142.75,PRJCA020971,China,Asia,oil field produced water,1
+112,44.329352,N ,84.877627,E,153.5,PRJCA020971,China,Asia,oil field produced water,1
+113,44.329452,N ,84.877727,E,399.185,PRJCA020971,China,Asia,oil field produced water,1
+114,44.329552,N ,84.877827,E,397.75,PRJCA020971,China,Asia,oil field produced water,1
+115,32.68117,N ,112.80745,E,167.8,PRJCA020971,China,Asia,oil field produced water,1
+116,32.68137,N ,112.80765,E,167.8,PRJCA020971,China,Asia,oil field produced water,1
+117,32.68147,N ,112.80775,E,253.9,PRJCA020971,China,Asia,oil field produced water,1
+118,32.68157,N ,112.80785,E,379,PRJCA020971,China,Asia,oil field produced water,1
+119,32.68167,N ,112.80795,E,167.8,PRJCA020971,China,Asia,oil field produced water,1
+120,31.088702,N ,106.569454,E,2000,my_data,China,Asia,oil field produced water,3
+121,31.79331,N ,119.420816,E,1000,my_data,China,Asia,mine fluids,5
+122,30.517778,N ,112.774692,E,1000,my_data,China,Asia,oil field produced water,4
